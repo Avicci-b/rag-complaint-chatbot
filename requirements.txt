@@ -1,0 +1,41 @@
+# Core data science
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Text processing
+nltk
+
+
+# LangChain (for chunking, prompt templates, and RAG orchestration)
+langchain
+
+# LLM inference (local)
+#transformers
+#torch
+#accelerate
+
+# Web interface
+streamlit
+
+# Testing
+pytest
+
+# Jupyter
+jupyter
+ipykernel
+
+# Utilities
+python-dotenv
+
+# LLM inference (local)
+transformers
+torch
+accelerate
+
+# Embeddings & vector stores
+sentence-transformers
+faiss-cpu          
+chromadb
