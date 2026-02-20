@@ -11,6 +11,7 @@ nltk
 
 # LangChain (for chunking, prompt templates, and RAG orchestration)
 langchain
+langchain-text-splitters
 
 # LLM inference (local)
 #transformers
