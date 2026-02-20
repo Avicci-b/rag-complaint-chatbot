@@ -16,3 +16,12 @@ An intelligent complaint analysis system that uses Retrieval-Augmented Generatio
 1. Create virtual environment: `python3 -m venv venv`
 2. Activate: `source venv/bin/activate`
 3. Install dependencies: `pip install -r requirements.txt`
+
+## Building the Vector Store
+
+The FAISS vector store is not committed to the repository due to size.
+
+To generate it locally:
+
+```bash
+python src/build_vector_store.py --sample_size 12000
